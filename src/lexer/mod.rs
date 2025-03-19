@@ -31,7 +31,7 @@ impl<'a> Iterator for Tokenizer<'a> {
     type Item = Result<Token, CompilerError>;
     
     fn next(&mut self) -> Option<Self::Item> {
-        match self.chars.next()? {
+        match self.chars.peek()? {
             _ => todo!()
         }
     }

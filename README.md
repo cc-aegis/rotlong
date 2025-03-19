@@ -1,6 +1,6 @@
 # Keywords
 ## Chungus
-use chungus data type for structured data
+use chungus data type for fat structured data
 `☣🐰<name>[<attribute>]*🚬`
 ## Rizz
 different rizzes can have different effects
@@ -18,3 +18,8 @@ divide values by fanum taxing them
 ## Fish
 
 ## Yap
+
+# Other Features
+## Numbers
+use roman numerals :D
+`🅸🆅🆇🅻🅲🅳🅼`
